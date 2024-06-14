@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "network",
+        "content": "api",
+        "departmentID": "11"
+    },
+    {
+        "id": 2,
+        "name": "server",
+        "content": "database",
+        "departmentID": "12"
+    },
+    {
+        "id": 3,
+        "name": "cyper",
+        "content": "security",
+        "departmentID": "12"
+    },
+    {
+        "id": 4,
+        "name": "oop",
+        "content": "data-structure",
+        "departmentID": "13"
+    },
+    {
+        "id": 5,
+        "name": "ui",
+        "content": "design",
+        "departmentID": "14"
+    },
+    {
+        "id": 70,
+        "name": "cs504",
+        "content": "api",
+        "departmentID": "11"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ahmed",
+        "email": "ahmed123@gmail.com",
+        "password": "ahmed_504",
+        "departmentID": "11"
+    },
+    {
+        "id": 2,
+        "name": "john",
+        "email": "john2005@gmail.com",
+        "password": "johny20",
+        "departmentID": "12"
+    },
+    {
+        "id": 3,
+        "name": "nada",
+        "email": "nada2020@gmail.com",
+        "password": "nody56",
+        "departmentID": "12"
+    },
+    {
+        "id": 4,
+        "name": "khalid",
+        "email": "khalid@gmail.com",
+        "password": "khalid19981",
+        "departmentID": "13"
+    },
+    {
+        "id": 5,
+        "name": "sameh",
+        "email": "sameh70@gmail.com",
+        "password": "moha2020",
+        "departmentID": "14"
+    },
+    {
+        "id": 3,
+        "name": "nada",
+        "email": "nada2020@gmail.com",
+        "password": "nody56",
+        "departmentID": "12"
+    }
+]
